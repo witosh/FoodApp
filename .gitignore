@@ -8,6 +8,8 @@ bin-release/
 .settings/
 
 **node_modules/
+**.eslintcache/
+
 
 # Executables
 *.swf
